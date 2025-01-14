@@ -3,3 +3,5 @@
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Hepsi",ATV
 https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1736912976&st=5DpbdHyb1SY6QHMZyZHI1Q&sid=72sl32bsxhmj&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+#EXTINF:-1 tvg-id="Kanal_D" tvg-name="Kanal D" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Hepsi",Kanal D
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
