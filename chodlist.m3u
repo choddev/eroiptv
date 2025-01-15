@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="ULUSAL",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/aHD_250x150.png" group-title="ULUSAL",ATV
-https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1736918961&st=SphJK-DJ30O9zitblFsw-g&sid=72stzehwb2rw&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-name="Kanal D" tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/ULv7b06.png" group-title="ULUSAL",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-name="Show TV" tvg-id="ShowTV.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png" group-title="ULUSAL",Show TV
