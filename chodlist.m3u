@@ -19,3 +19,5 @@ https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/tv8-audio_tur=96000-video=
 https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/foxtv-audio_tur=96000-video=1500000.m3u8?st=h2v06quepDU3vobaA2StZQ&e=1736942828&uid=7173310748083946429&sid=bAAEGPUCCbUPLA&userid=ed611702&reqid=806db7a8d7d324303c8f3f926cf2e584&tmode=1
 #EXTINF:-1 tvg-name="ULKE" tvg-id="ULKE.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/500/content/R/oy/13522/Thumbnail.png?v=636927749233817129" group-title="HABER",ULKE
 https://dsmartgo-live.ercdn.net/ulketv/ulketv_1080p.m3u8?st=6rirYw8_p5eKuAihCEbhLg&e=1736943366&uid=7173310748083946429&sid=bAAEGPUCCbUPLA&userid=ed611702&reqid=27cfe74a4e88e07d55d7f3012217a689&tmode=1
+#EXTINF:-1 tvg-name="TRT Haber" tvg-id="TRTHaber.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/500/content/6/F9/12895/Thumbnail.png?v=636927788705862725" group-title="HABER",TRT Haber
+https://dsmartgo-live.ercdn.net/trthaber/trthaber.m3u8?st=pqAQaPYLtqq2vuiRXSCDjA&e=1736943668&uid=7173310748083946429&sid=bAAEGPUCCbUPLA&userid=ed611702&reqid=778a3ed3789a833c27e32ef792807d1d&tmode=1
