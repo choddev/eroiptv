@@ -3,6 +3,8 @@
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/aHD_250x150.png" group-title="ULUSAL",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/2/HH/11906/Thumbnail.png?v=638433526771493494" group-title="ULUSAL",NOW
+https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/foxtv-audio_tur=96000-video=1500000.m3u8?st=h2v06quepDU3vobaA2StZQ&e=1736942828&uid=7173310748083946429&sid=bAAEGPUCCbUPLA&userid=ed611702&reqid=806db7a8d7d324303c8f3f926cf2e584&tmode=1
 #EXTINF:-1 tvg-name="Kanal D" tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/ULv7b06.png" group-title="ULUSAL",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-name="Show TV" tvg-id="ShowTV.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png" group-title="ULUSAL",Show TV
